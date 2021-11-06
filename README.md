@@ -1,1 +1,1 @@
-# Fintech is really really awesome!
+# Fintech is really really awesome, as is git!
