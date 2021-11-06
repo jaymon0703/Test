@@ -3,8 +3,11 @@
 ## I love this stuff
 
 ### Do you also love it Trevor?
+---
 <br><br>
 > "This is a quote from a famous person"
+
+
 
 ```python
 fintech_is_fun
